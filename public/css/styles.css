@@ -1,0 +1,9 @@
+
+.task{
+    color: black;
+    cursor:pointer;
+}
+
+.finished{
+    text-decoration: line-through
+}
